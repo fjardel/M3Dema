@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a098eda817d7cdd4eb66d558ba0e0577
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cerebro: {fileID: 100020, guid: 50a81a8fc9ddd3944846c85c88f46049, type: 2}
+  - modeloBox: {fileID: 11400000, guid: b3c6562c7215a5e4891f437b38f8e6e0, type: 2}
+  - movimentacao: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

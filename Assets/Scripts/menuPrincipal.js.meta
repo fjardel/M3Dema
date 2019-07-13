@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 53522867b638b1a439a2c659976103a4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - modeloBotao: {fileID: 11400000, guid: 3b67ad60447d91e49ad47408748c8a88, type: 2}
+  - abertura: {fileID: 8300000, guid: 1d82248703003a2409068ce94098fc24, type: 3}
+  - click: {fileID: 8300000, guid: 25b696089e5fccf48a81063391f03686, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
